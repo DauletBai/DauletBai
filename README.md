@@ -2,7 +2,9 @@
 
 # Hello, world! 👋
 
-**DauletBai/DauletBai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Daulet Baimurza.** 
+✨ Now I'm retired and in my free time I program for my own pleasure. 
+✨ `README.md` Check out my humble profile.
 
 Here are some ideas to get you started:
 
