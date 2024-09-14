@@ -1,4 +1,4 @@
-![Header](https://github.com/DauletBai/DauletBai/assets/qz-flag.jpg)
+![Header](assets/qz-flag.jpg)
 
 # Hello, world! 👋
 
