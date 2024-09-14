@@ -11,6 +11,4 @@ What I'm currently working on:
 - 🔭 I’m currently working on a template generator for Golang.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking for an internship opportunity to improve my skills.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: daulet.baimurza@gmail.com
+- 📫 How to reach me: baimurza.daulet@gmail.com
