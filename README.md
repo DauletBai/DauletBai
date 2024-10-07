@@ -8,7 +8,7 @@
 
 What I'm currently working on:
 
-- 🔭 I’m currently working on a template generator for Golang.
-- 🌱 I’m currently learning Golang.
-- 👯 I’m looking for an internship opportunity to improve my skills.
+- 🔭 Currently writing CMS in Golang.
+- 🌱 I continue to study Golang intensively..
+- 👯 I would be glad to have the opportunity to do an internship to improve my skills..
 - 📫 How to reach me: baimurza.daulet@gmail.com
