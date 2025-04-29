@@ -8,7 +8,7 @@
 
 What I'm currently working on:
 
-- 🔭 Currently writing CMS in Golang.
-- 🌱 I continue to study Golang intensively..
-- 👯 I would be glad to have the opportunity to do an internship to improve my skills..
+- 🔭 Currently writing Shaman AI (family doctor) in Golang.
+- 🌱 And ChatGPT+ actively helps me with this.
+- 👯 I would be happy to have Go and machine learning experts join me.
 - 📫 How to reach me: baimurza.daulet@gmail.com
