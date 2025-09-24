@@ -3,15 +3,35 @@
 # Hello, world! 👋
 
 **My name is Daulet Baimurza.**  
-✨ I am retired, and in my free time I enjoy programming as a passion project.  
-✨ This is my humble GitHub profile — welcome!
+✨ I'm now retired and in my free time I program for fun.  
+✨ `README.md` Check out my humble profile.  
 
-## What I'm currently working on
+---
 
-- 🔭 Developing a new programming language, codenamed **"Tenge"**, focused on **high performance for complex mathematical and financial computations**.  
-  Its primary application is in **national and central banks**.  
-- 🌱 Actively collaborating with **ChatGPT 5+** as a co-pilot in development.  
-- 👯 Open to collaboration with specialists in **programming language design** and **machine learning**.  
+## 🚀 My Current Project
 
-## 📫 Contact
+<p align="center">
+  <img src="./docs/philosophy/brand/logo.jpeg" alt="Tenge Logo" width="160"/>
+</p>
+
+- 🔭 I'm currently writing a new programming language, codenamed **Tenge**.  
+  Its main feature is **high performance for complex mathematical calculations**.  
+  Its primary application is **national banks and fintech systems**.  
+- 🌱 And ChatGPT 5+ is actively helping me with this.  
+- 👯 I'd be happy if specialists with experience in **language development** and **machine learning** joined me.  
+
+---
+
+## 📖 Brand Identity
+
+<p align="center">
+  <img src="./docs/philosophy/brand/favicon.jpeg" alt="Tenge Icon" width="64"/>
+</p>
+
+The **favicon** represents the minimalistic symbol of the project,  
+while the **logo** reflects its broader vision and philosophy.  
+
+---
+
+## 📫 How to contact me
 **Email:** baimurza.daulet@gmail.com
