@@ -2,13 +2,16 @@
 
 # Hello, world! 👋
 
-**I am Daulet Baimurza.** 
-✨ Now I'm retired and in my free time I program for my own pleasure. 
-✨ `README.md` Check out my humble profile.
+**My name is Daulet Baimurza.**  
+✨ I am retired, and in my free time I enjoy programming as a passion project.  
+✨ This is my humble GitHub profile — welcome!
 
-What I'm currently working on:
+## What I'm currently working on
 
-- 🔭 Currently writing Shaman AI (family doctor) in Golang.
-- 🌱 And ChatGPT+ actively helps me with this.
-- 👯 I would be happy to have Go and machine learning experts join me.
-- 📫 How to reach me: baimurza.daulet@gmail.com
+- 🔭 Developing a new programming language, codenamed **"Tenge"**, focused on **high performance for complex mathematical and financial computations**.  
+  Its primary application is in **national and central banks**.  
+- 🌱 Actively collaborating with **ChatGPT 5+** as a co-pilot in development.  
+- 👯 Open to collaboration with specialists in **programming language design** and **machine learning**.  
+
+## 📫 Contact
+**Email:** baimurza.daulet@gmail.com
