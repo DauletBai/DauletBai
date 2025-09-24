@@ -11,7 +11,7 @@
 ## 🚀 My Current Project
 
 <p align="center">
-  <img src="docs/philosophy/brand/logo.svg" alt="Tenge Logo" width="160"/>
+  <img src="./docs/philosophy/brand/logo.svg" alt="Tenge Logo" width="160"/>
 </p>
 
 - 🔭 I'm currently writing a new programming language, codenamed **Tenge**.  
