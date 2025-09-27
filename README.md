@@ -11,7 +11,7 @@
 ## 🚀 My Current Project
 
 <p align="center">
-  <img src="https://github.com/DauletBai/tenge/blob/main/docs/philosophy/brand/logo.svg" alt="Tenge Logo" width="64"/>
+  <img src="https://github.com/DauletBai/tenge/blob/main/docs/philosophy/brand/logo_64.svg" alt="Tenge Logo" width="64"/>
 </p>
 
 - 🔭 I'm currently writing a new programming language, codenamed **Tenge**.  
@@ -25,7 +25,7 @@
 ## 📖 Brand Identity
 
 <p align="center">
-  <img src="https://github.com/DauletBai/tenge/blob/main/docs/philosophy/brand/logo.svg" alt="Tenge Icon" width="24"/>
+  <img src="https://github.com/DauletBai/tenge/blob/main/docs/philosophy/brand/logo_32.svg" alt="Tenge Icon" width="24"/>
 </p>
 
 The **favicon** represents the minimalistic symbol of the project,  
