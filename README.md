@@ -20,6 +20,6 @@ I am building a sovereign clearing gateway and CBDC infrastructure designed for 
 #### 🤝 Collaboration
 I am looking for **Co-Founders** and **System Engineers (Rust/Go)** who are tired of standard commercial tasks and want to solve problems at the state level (G2G/GovTech).
 
-[📧 Email Me](mailto:baimurza.daulet@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/madiyev/) ```
+[📧 Email Me](mailto:baimurza.daulet@gmail.com) | 💼 https://www.linkedin.com/in/daulet-baimurza-4b3506211/
 
 ---
