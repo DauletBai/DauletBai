@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="web/assets/brand/logo.svg" alt="Qazna logotype" width="64"/>
+</p>
+
 ### Hi there, I'm Daulet Baimurza 👋
 
 > **Founder & Lead Architect @ [Qazna.org](https://qazna.org)** > *Engineering Financial Sovereignty for Central Asia.*
