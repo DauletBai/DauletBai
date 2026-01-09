@@ -2,28 +2,77 @@
   <img src="assets/Logotype.svg" alt="Qazna logotype" width="64"/>
 </p>
 
-### Hi there, I'm Daulet Baimurza 👋
+Hi, I’m Daulet Baimurza 👋
 
-> **Founder & Lead Architect @ [Qazna.org](https://qazna.org)** > *Engineering Financial Sovereignty for Central Asia.*
+I am a systems architect and engineer with 30+ years of experience in
+high-integrity systems, distributed architectures, and financial infrastructure.
 
-I am a Systems Architect with over 30 years of experience. I bridge the gap between fundamental engineering rigor and modern high-performance technologies. My mission is to build a transparent, balanced, and neutral global economy infrastructure.
+I am the initiator and lead architect of **Qazna** — an open, governance-neutral
+financial protocol and reference implementation for secure, auditable value
+exchange systems.
+
+---
+
+## What I Work On
+
+**Qazna** is not a product and not a startup in the traditional sense.
+
+It is:
+- an **open financial protocol**
+- a **reference implementation** of a high-integrity ledger runtime
+- designed to be **jurisdiction-neutral**, **auditable**, and **formally verifiable**
+
+The system is intentionally minimal and infrastructure-level:
+it does not encode business logic, policy, or monetary ideology.
 
 ---
 
-#### 🔭 Current Focus: [Qazna.org](https://github.com/qazna-org/qazna.org)
-I am building a sovereign clearing gateway and CBDC infrastructure designed for Central Banks.
-* **Core:** Rust (for memory safety and performance).
-* **Architecture:** Hexagonal / Microservices (Go).
-* **Innovation:** Developing **"Tenge"** — a domain-specific language (DSL) optimized for high-precision financial calculations.
+## Technical Focus
 
-#### 🌱 Philosophy
-* **Code is Law:** Financial systems must be mathematically verifiable.
-* **Open Source:** National infrastructure cannot be a "black box".
-* **Life-long Learning:** Leveraging AI and LLMs to accelerate complex R&D.
+- **Core Runtime:** Rust (memory safety, determinism, performance)
+- **Interfaces & Services:** Go (clear APIs, operational simplicity)
+- **Architecture:** protocol-first, reference-implementation model
+- **Observability & Auditability:** built-in, not bolted on
+- **Security Philosophy:** correctness before convenience
 
-#### 🤝 Collaboration
-I am looking for **Co-Founders** and **System Engineers (Rust/Go)** who are tired of standard commercial tasks and want to solve problems at the state level (G2G/GovTech).
-
-[📧 Email Me](mailto:baimurza.daulet@gmail.com) | 💼 https://www.linkedin.com/in/daulet-baimurza-4b3506211/
+The same protocol can be used by:
+- financial institutions
+- clearing systems
+- regulated platforms
+- public or private operators
+- research and simulation environments
 
 ---
+
+## Philosophy
+
+- **Code is a Contract**  
+  Financial infrastructure must be deterministic, inspectable, and testable.
+
+- **Open by Default**  
+  Critical infrastructure cannot rely on black boxes.
+
+- **Standards Before Products**  
+  Ecosystems grow around stable protocols, not proprietary platforms.
+
+- **Governance Neutrality**  
+  Technology should not enforce political or institutional control models.
+
+---
+
+## Collaboration
+
+I am interested in collaborating with:
+- systems engineers (Rust / Go)
+- protocol designers
+- infrastructure and platform engineers
+- organizations exploring open financial standards
+
+This work is long-term, infrastructure-level, and ecosystem-oriented.
+
+---
+
+📫 Contact  
+Email: baimurza.daulet@gmail.com  
+LinkedIn: https://www.linkedin.com/in/daulet-baimurza-4b3506211/  
+Project: https://qazna.org
