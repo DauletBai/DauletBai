@@ -75,4 +75,4 @@ This work is long-term, infrastructure-level, and ecosystem-oriented.
 📫 Contact  
 Email: baimurza.daulet@gmail.com  
 LinkedIn: https://www.linkedin.com/in/daulet-baimurza-4b3506211/  
-Project: https://qazna.org
+Standards: [https://qazna.org](https://github.com/qazna-org/qazna.org/tree/main/STANDARD)
