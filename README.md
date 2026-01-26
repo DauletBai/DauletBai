@@ -4,8 +4,7 @@
 
 Hi, I’m Daulet Baimurza 👋
 
-I am a systems architect and engineer with 30+ years of experience in
-high-integrity systems, distributed architectures, and financial infrastructure.
+System Architect & Engineer. After a 30-year career in heavy industry engineering (Mining), I pivoted to Open Source to solve a new challenge: fixing the world's financial infrastructure. I build Qazna with the same rigorous safety and reliability standards required in industrial systems.
 
 I am the initiator and lead architect of **Qazna** — an open, governance-neutral
 financial protocol and reference implementation for secure, auditable value
