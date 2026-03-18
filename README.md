@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logotype.svg" alt="Qazna logotype" width="64"/>
+  <img src="assets/Logotype.svg" alt="Qazna logotype" width="128"/>
 </p>
 
 # Hi, I'm Daulet Baimurza 👋
