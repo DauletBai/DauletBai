@@ -19,10 +19,11 @@ Pure Rust, no neural inference, runs on M2 8GB / 0% GPU.
 Multi-turn dialog, voice output (macOS Aru / Linux espeak-ng / Piper),
 Rust curriculum tracker, cargo-check tutor loop.
 
-- 5 months solo development, ~150 releases
-- 1 150 passing tests, 41 dialog intents
-- p50 latency 21ms / RSS 300MB / 0% GPU
-- License: BUSL-1.1
+- **1 month solo development** (first commit 2026-04-07)
+- **451 versioned releases** (~15/day average) — every release CI-verified
+- **1 150+ passing tests**, 41 dialog intents
+- p50 latency 21 ms / RSS 300 MB / 0% GPU
+- License: BUSL-1.1 (source-available, commercial use by permission)
 
 ---
 
